@@ -345,8 +345,6 @@ jobs:
           CONFIG_PACKAGE_rp-pppoe-common=y
           CONFIG_PACKAGE_rp-pppoe-relay=y
           CONFIG_PACKAGE_rpcbind=y
-          CONFIG_PACKAGE_samba4-libs=y
-          CONFIG_PACKAGE_samba4-server=y
           CONFIG_PACKAGE_smartdns=y
           CONFIG_PACKAGE_softethervpn5-bridge=y
           CONFIG_PACKAGE_softethervpn5-client=y
@@ -360,8 +358,6 @@ jobs:
           CONFIG_PHP7_LIBFREETYPE=y
           CONFIG_RPCBIND_LIBWRAP=y
           CONFIG_RPCBIND_RMTCALLS=y
-          CONFIG_SAMBA4_SERVER_AVAHI=y
-          CONFIG_SAMBA4_SERVER_VFS=y
           CONFIG_TARGET_ROOTFS_PARTSIZE=500
           # CONFIG_VMDK_IMAGES is not set
           EOF
